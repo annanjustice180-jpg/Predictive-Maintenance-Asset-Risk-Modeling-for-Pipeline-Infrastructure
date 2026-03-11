@@ -1,4 +1,5 @@
 # Pipeline Predictive Maintenance & Failure Forecasting
+![Pipeline Predictive Maintenance](https://images.unsplash.com/photo-1581092160607-ee22731b8b4c)
 
 Predictive maintenance system designed to identify pipeline infrastructure failure risk and support risk-based inspection planning for energy assets.
 
