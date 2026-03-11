@@ -174,5 +174,5 @@ This project demonstrates how predictive analytics can support pipeline asset in
 
 **Annan Yaw Enu**
 
-Energy Data Consultant  
-Energy & Sustainability Data Scientist | AI for Oil, Gas & Renewables | Forecasting | Helping Energy Companies Reduce Downtime & Optimize Operations
+Petroleum Engineer |Energy Data Consultant  
+Energy & Sustainability Data Scientist | AI for Oil, Gas & Renewables | Forecasting | Helping Energy Companies Reduce Downtime & Optimize Operations |
