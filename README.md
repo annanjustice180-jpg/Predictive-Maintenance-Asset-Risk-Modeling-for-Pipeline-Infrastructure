@@ -74,7 +74,26 @@ Dashboard features include:
 
 Live dashboard:https://pipeline-predictive-maintenance-dashboard-bguhkqbzfpvj9ukypmsm.streamlit.app/
 
+## Repository Structure
 
+pipeline-predictive-maintenance/
+│
+├── data/
+│ └── market_pipe_thickness_loss_dataset.csv
+│
+├── notebooks/
+│ └── predictive_maintenance_model.ipynb
+│
+├── dashboard/
+│ ├── app.py
+│ └── risk_snapshot.csv
+│
+├── reports/
+│ └── Pipeline Predictive Maintenance Case Study.md
+│
+├── requirements.txt
+│
+└── README.md
 
 
 ## Dataset
