@@ -1,5 +1,3 @@
-# Predictive-Maintenance-Asset-Risk-Modeling-for-Pipeline-Infrastructure
-
 # Pipeline Predictive Maintenance & Failure Forecasting
 
 Predictive maintenance system designed to identify pipeline infrastructure failure risk and support risk-based inspection planning for energy assets.
