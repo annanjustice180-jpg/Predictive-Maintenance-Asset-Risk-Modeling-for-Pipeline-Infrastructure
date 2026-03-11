@@ -104,7 +104,7 @@ Final dataset:
 
 **881 pipeline assets**
 
----
+
 
 ### Time-Series Simulation
 
@@ -118,7 +118,7 @@ Resulting dataset:
 
 **≈52,760 asset-month observations**
 
----
+
 
 ### Feature Engineering
 
@@ -169,7 +169,7 @@ This project demonstrates how predictive analytics can support pipeline asset in
 - Prioritizing maintenance resources
 - Enabling risk-based asset management
 
----
+
 
 ## Author
 
