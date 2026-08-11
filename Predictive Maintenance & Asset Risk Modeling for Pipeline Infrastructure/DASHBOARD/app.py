@@ -5,15 +5,15 @@ import streamlit as st
 
 # ============================================================
 # CONFIG
-# ============================================================
+# ===========================================================
 APP_TITLE = "Pipeline Predictive Maintenance Dashboard"
 DEFAULT_CSV = "risk_snapshot.csv"
 
-# These thresholds match the operational tuning you used earlier
+# These thresholds match the operational tuning 
 DEFAULT_IMMINENT_THR = 0.10
 DEFAULT_EARLY_THR = 0.05
 
-# Metrics from your model evaluation (hard-coded for credibility & consistency)
+# Metrics from y model evaluation (hard-coded for credibility & consistency)
 IMMINENT_METRICS = {
     "Recall": "91.7%",
     "Precision": "73.3%",
